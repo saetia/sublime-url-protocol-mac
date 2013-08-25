@@ -14,4 +14,4 @@ Make sure you have `Rack` installed by running
 sudo gem install rack
 ```
 
-This only works for Sublime Text 3, to make this work with Sublime Text 2 - alter the `/Sublime%20Protocol.app/Contents/Resources/Scripts/main.scpt` file
+This only works for Sublime Text 3, to make this work with Sublime Text 2 - alter the **/Sublime\ Protocol.app/Contents/Resources/Scripts/main.scpt** file
