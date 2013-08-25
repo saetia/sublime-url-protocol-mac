@@ -9,9 +9,4 @@ subl://open?url=file://%2FUsers%2FJoel%2FSites%2Fskeleton%2Fhttpdocs%2Fdoc%2Find
 
 ---
 
-Make sure you have `Rack` installed by running 
-```bash
-sudo gem install rack
-```
-
 This only works for Sublime Text 3, to make this work with Sublime Text 2 - alter the `/Sublime%20Protocol.app/Contents/Resources/Scripts/main.scpt` file
