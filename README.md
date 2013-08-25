@@ -1,11 +1,13 @@
 sublime url protocol for mac os x
 ========================
 
-Supports opening subl:// urls from whoops! php error logs on mac os x
+Supports opening subl:// urls from "better errors" on rails and "whoops!" on php
+
+![http://i.imgur.com/vtzf2FZ.png](http://i.imgur.com/vtzf2FZ.png)
+subl://open?url=file:///Users/Joel/.rvm/gems/ruby-2.0.0-p247/gems/actionpack-4.0.0/lib/action_dispatch/routing/route_set.rb&line=69
 
 ![http://i.imgur.com/C8QKIOo.png](http://i.imgur.com/C8QKIOo.png)
-
-subl://open?url=file://%2FUsers%2FJoel%2FSites%2Fskeleton%2Fhttpdocs%2Fdoc%2Findex.php&line=41
+subl://open?url=file:///Users/Joel/Sites/skeleton/httpdocs/doc/index.php&line=41
 
 ---
 
