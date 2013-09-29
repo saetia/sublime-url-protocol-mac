@@ -1,6 +1,15 @@
 sublime url protocol for mac os x
 ========================
 
+## Installation
+
+- Download the [latest release](https://github.com/saetia/sublime-url-protocol-mac/archive/master.zip) and unzip
+- Drag "Sublime Protocol.app" to your /Applications directory
+- Double-click the app once to register it as the protocol handler
+
+Note: It will close instantly; this is the expected behaviour.
+
+
 Supports opening subl:// urls from "better errors" on rails and "whoops!" on php
 
 ![http://i.imgur.com/vtzf2FZ.png](http://i.imgur.com/vtzf2FZ.png)
