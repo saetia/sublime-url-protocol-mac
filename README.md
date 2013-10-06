@@ -7,8 +7,7 @@ sublime url protocol for mac os x
 - Drag "Sublime Protocol.app" to your /Applications directory
 - Double-click the app once to register it as the protocol handler
 
-Note: It will close instantly; this is the expected behaviour.
-
+Note: It won't appear to open because the dock icon is hidden to make using it as transparent as possible.
 
 Supports opening subl:// urls from "better errors" on rails and "whoops!" on php
 
