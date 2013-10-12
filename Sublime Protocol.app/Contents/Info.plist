@@ -4,7 +4,7 @@
 <dict>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
-	<key>NSUIElement</key>
+	<key>LSUIElement</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
@@ -13,11 +13,11 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.SublProtocol</string>
+	<string>com.apple.ScriptEditor.id.Sublime-Protocol</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>SublProtocol</string>
+	<string>Sublime Protocol</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -40,9 +40,9 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>605</real>
+		<real>454</real>
 		<key>savedFrame</key>
-		<string>597 209 1344 1021 0 0 2560 1418 </string>
+		<string>536 328 982 786 0 0 2560 1418 </string>
 		<key>selectedTabView</key>
 		<string>result</string>
 	</dict>
@@ -50,7 +50,7 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>SublProtocol</string>
+			<string>Sublime Protocol</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>subl</string>
